@@ -1,9 +1,11 @@
 
+{% load filter_methods %}
+
 <html>
 
 <body>
 	{% for item in data %}
-		{{item}}
+		{{ item|toUpper:5 }}
 	{% endfor %}
 </body>
 
