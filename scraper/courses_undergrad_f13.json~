@@ -1,0 +1,290 @@
+[
+    {
+        "name": "COMP 102 Computers and Computing ",
+        "shortname": "COMP 102",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-102",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 189 Computers and Society ",
+        "shortname": "COMP 189",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-189",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 202 Foundations of Programming ",
+        "shortname": "COMP 202",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-202",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 206 Introduction to Software Systems ",
+        "shortname": "COMP 206",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-206",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 208 Computers in Engineering ",
+        "shortname": "COMP 208",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-208",
+        "faculty": "Faculty of Engineering",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 230 Logic and Computability ",
+        "shortname": "COMP 230",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-230",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 250 Introduction to Computer Science ",
+        "shortname": "COMP 250",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-250",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 251 Algorithms and Data Structures ",
+        "shortname": "COMP 251",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-251",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 273 Introduction to Computer Systems ",
+        "shortname": "COMP 273",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-273",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 302 Programming Languages and Paradigms ",
+        "shortname": "COMP 302",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-302",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 303 Software Development ",
+        "shortname": "COMP 303",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-303",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 310 Operating Systems ",
+        "shortname": "COMP 310",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-310",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 321 Programming Challenges (1 credit)",
+        "shortname": "COMP 321",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-321",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "Unavailable"
+    },
+    {
+        "name": "COMP 330 Theory of Computation ",
+        "shortname": "COMP 330",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-330",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 350 Numerical Computing ",
+        "shortname": "COMP 350",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-350",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 360 Algorithm Design ",
+        "shortname": "COMP 360",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-360",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 361D1 Software Engineering Project ",
+        "shortname": "COMP 361D1",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-361d1",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 396 Undergraduate Research Project ",
+        "shortname": "COMP 396",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-396",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 400 Honours Project in Computer Science ",
+        "shortname": "COMP 400",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-400",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 401 Project in Biology and Computer Science ",
+        "shortname": "COMP 401",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-401",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 409 Concurrent Programming ",
+        "shortname": "COMP 409",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-409",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 417 Introduction Robotics and Intelligent Systems ",
+        "shortname": "COMP 417",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-417",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 462 Computational Biology Methods ",
+        "shortname": "COMP 462",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-462",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 499 Undergraduate Bioinformatics Seminar (1 credit)",
+        "shortname": "COMP 499",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-499",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "Unavailable"
+    },
+    {
+        "name": "COMP 512 Distributed Systems ",
+        "shortname": "COMP 512",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-512",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "4"
+    },
+    {
+        "name": "COMP 520 Compiler Design ",
+        "shortname": "COMP 520",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-520",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "4"
+    },
+    {
+        "name": "COMP 533 Model-Driven Software Development ",
+        "shortname": "COMP 533",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-533",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 535 Computer Networks 1 ",
+        "shortname": "COMP 535",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-535",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 540 Matrix Computations ",
+        "shortname": "COMP 540",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-540",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 552 Combinatorial Optimization ",
+        "shortname": "COMP 552",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-552",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "4"
+    },
+    {
+        "name": "COMP 553 Algorithmic Game Theory ",
+        "shortname": "COMP 553",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-553",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "4"
+    },
+    {
+        "name": "COMP 557 Fundamentals of Computer Graphics ",
+        "shortname": "COMP 557",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-557",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 558 Fundamentals of Computer Vision ",
+        "shortname": "COMP 558",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-558",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 561 Computational Biology Methods and Research ",
+        "shortname": "COMP 561",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-561",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "4"
+    },
+    {
+        "name": "COMP 567 Discrete Optimization 2 ",
+        "shortname": "COMP 567",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-567",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    },
+    {
+        "name": "COMP 598 Topics in Computer Science 1 ",
+        "shortname": "COMP 598",
+        "link": "http:\/\/www.mcgill.ca\/study\/2013-2014\/courses\/comp-598",
+        "faculty": "Faculty of Science",
+        "department": "Computer Science",
+        "credits": "3"
+    }
+]
