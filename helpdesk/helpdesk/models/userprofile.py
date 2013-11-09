@@ -11,5 +11,7 @@ class UserProfile(models.Model):
 	picture = models.ImageField(upload_to=picture_path, null=True)
 	points = models.IntegerField()
 
+	created = models.DateTimeField(auto_now_add=True)
+
 	def __unicode__(self):
 		return u"{0}".format(self.user.username)

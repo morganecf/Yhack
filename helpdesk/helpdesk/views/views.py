@@ -1,5 +1,17 @@
 from django.shortcuts import render
 
+# TEST METHOD 
 def helloworld(request):
-	context = {"data":["hello world", "hello mars"], "moredata":"goodbye world"}
+	context = {}
+	return render(request, 'helloworld.html', context)
+
+def home(request):
+	context = {}
+	# try:
+	# 	memberID = request.session['member_id']
+		
+	# except KeyError:
+
+	# 	context = {"courses": }
+
 	return render(request, 'helloworld.html', context)
