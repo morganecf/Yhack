@@ -1,6 +1,14 @@
+<<<<<<< HEAD
+=======
+<html>
+
+<body>
+
+>>>>>>> 084e6ed098a387c96d1b77e4616f8b55a6d14ce1
 
 {% load staticfiles %}
 
+<<<<<<< HEAD
 <html>
 <head>
 <title></title>
@@ -9,6 +17,23 @@
 	<link rel="stylesheet" type="text/css" href="{% static "home.css" %}">
 </head>
 <body>
+=======
+<form method="post" class="form-horizontal" action="">
+    {% csrf_token %}
+	<div class="row">
+	    <h2>Login/Registration</h2>
+	</div>
+	<div class="content">
+		<input name="first_name" type="text" placeholder="first name" />
+		<input name="last_name" type="text" placeholder="last name" />
+		<input name="email" type="email" placeholder="email" /> 
+		<input name="password" type="password" placeholder="password" /> 
+	</div>
+
+	<button type="submit"> </button> 
+
+</form> 
+>>>>>>> 084e6ed098a387c96d1b77e4616f8b55a6d14ce1
 
 	<form method="post" class="form-horizontal" action="">
 	    {% csrf_token %}
