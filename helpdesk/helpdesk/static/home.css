@@ -1,0 +1,13 @@
+
+@font-face
+{
+font-family: museos;
+src: url('MuseoSans_300.otf');
+}
+
+body{
+	background-color: lavender;
+	font-family: museos;
+}
+
+

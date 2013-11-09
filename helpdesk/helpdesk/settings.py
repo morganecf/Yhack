@@ -63,6 +63,21 @@ DATABASES = {
     }
 }
 
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
+        'LOCATION': '127.0.0.1:11211',
+    }
+}
+
+SESSION_ENGINE = "django.contrib.sessions.backends.cache"
+
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'cloudhelpyhack@gmail.com'
+EMAIL_HOST_PASSWORD = 'yhack2013'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
 
@@ -80,4 +95,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/helpdesk/static/'
+
+STATICFILES_DIRS = (
+    os.path.join('helpdesk/static'),
+)
