@@ -1,0 +1,28 @@
+<html>
+
+<body>
+
+
+    {% if failure_message %}
+	   	<div> <p> {{failure_message}}</p> </div>
+	{% endif %}
+
+<form method="post" class="form-horizontal" action="">
+    {% csrf_token %}
+	<div class="row">
+	    <h2>Login/Registration</h2>
+	</div>
+	<div class="content">
+		<input name="first_name" type="text" placeholder="first name" />
+		<input name="last_name" type="text" placeholder="last name" />
+		<input name="email" type="email" placeholder="email" /> 
+		<input name="password" type="password" placeholder="password" /> 
+	</div>
+
+	<button type="submit"> </button> 
+
+</form> 
+
+</body>
+
+</html>
