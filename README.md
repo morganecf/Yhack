@@ -11,7 +11,7 @@ Using webcam chat, live editing and afun point based system, we have a set up wh
 How does it work?
 ------
 
-1. Sign in with a @mail.mcgill.caelp
+1. Sign in with a @mail.mcgill.ca
 3. Earn 5 points for current courses and 10 for past courses
 4. Use your points to ask questions and get help (you offer a reward to incentivize people to answer your question)
 5. Use your points to incentivize people to hop on a live chat with you to help you through a problem
