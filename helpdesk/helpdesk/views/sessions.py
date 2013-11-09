@@ -38,22 +38,22 @@ def signup(request):
 			return render(request, 'home.html', context)
 		isVal = valid_email(email)
 
-        if isVal:
-        	subject = "Welcome to CloudHelp!"
-        	message = "Hello " + first_name + " " + last_name + "! Thanks for joining CloudHelp."
+		if isVal:
+			subject = "Welcome to CloudHelp!"
+			message = "Hello " + first_name + " " + last_name + "! Thanks for joining CloudHelp."
 
-        	try:
+			try:
 				send_mail(subject, message, EMAIL_HOST_USER, [email], fail_silently=False)
 				username = first_name + " " + last_name
 				user = User.objects.create_user(username, email, password, first_name=first_name, last_name=last_name)
 				user.save()
-				return HttpResponseRedirect('/home/')
-    		except SMTPException:
-    			return HttpResponseRedirect('/failure/')
+				return HttpResponseRedirect('/userhome/')
+			except SMTPException:
+				return HttpResponseRedirect('/failure/')
 
-        else:
-        	context["failure_message"] = "Invalid email."
-        	return render(request, 'home.html', context) 
+		else:
+			context["failure_message"] = "Invalid email."
+			return render(request, 'home.html', context) 
 	
 	return render(request, 'home.html', context)
 
