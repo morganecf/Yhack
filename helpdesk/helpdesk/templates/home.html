@@ -18,14 +18,27 @@
 		{% endif %}
 
 		
-		<div class="content">
-			<input name="first_name" type="text" placeholder="first name" />
-			<input name="last_name" type="text" placeholder="last name" />
-			<input name="email" type="email" placeholder="email" /> 
-			<input name="password" type="password" placeholder="password" /> 
+		<div class="login" style="font-size: 150%">
+			<h1 style="margin-top: 0px">Login</h1>
+			
+			
+			<span class="glyphicon glyphicon-user"></span>
+			<input name="email" type="email" placeholder="email" /><br/>
+			<span class="glyphicon glyphicon-lock"></span>
+			<input name="password" type="password" placeholder="password" /> <br/>
+			<br id="break1" style="display:none"/>
+			<input id="first_name" name="first_name" placeholder="First Name" style="display:none;width:48%"/>
+			<input id="last_name" name="last_name" placeholder="Last Name" style="display:none;width:48%"/>
+			<br id="break2" style="display:none"/>
+			<br/>
+			<div class="btn-group" style="width:266px;height:40px">
+
+			<input type = "button" class="btn btn-default" style="width:50%;height:100%" onClick="$('#first_name').slideDown();$('#last_name').slideDown();$('#break1').slideDown();$('#break2').slideDown();" value="Register" />
+			
+			<button class="btn btn-primary" style="width:50%;height:100%">Login</button></div>
 		</div>
 
-		<button type="submit">Submit</button> 
+		
 
 	</form> 
 
