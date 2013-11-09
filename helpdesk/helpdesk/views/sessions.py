@@ -8,7 +8,7 @@ from django.http import HttpResponseRedirect
 from smtplib import SMTPException
 from helpdesk.settings import EMAIL_HOST_USER
 
-from utils import isValidEmail
+from utils import valid_email, email_exists
 
 '''
 Views that have to do with user sessions. 
@@ -35,8 +35,8 @@ def signup(request):
 		exists = email_exists(email)
 		if exists:
 			context["failure_message"] = "Email already exists."
-			return render(request, 'helloworld.html', context)
-		isVal = isValidEmail(email)
+			return render(request, 'home.html', context)
+		isVal = valid_email(email)
 
         if isVal:
         	subject = "Welcome to CloudHelp!"
@@ -53,7 +53,7 @@ def signup(request):
 
         else:
         	context["failure_message"] = "Invalid email."
-        	return render(request, 'helloworld.html', context) 
+        	return render(request, 'home.html', context) 
 	
-	return render(request, 'helloworld.html', context)
+	return render(request, 'home.html', context)
 

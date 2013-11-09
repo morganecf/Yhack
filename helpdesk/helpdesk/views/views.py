@@ -3,7 +3,7 @@ from django.shortcuts import render
 # TEST METHOD 
 def helloworld(request):
 	context = {}
-	return render(request, 'helloworld.html', context)
+	return render(request, 'home.html', context)
 
 def home(request):
 	context = {}
@@ -14,4 +14,4 @@ def home(request):
 
 	# 	context = {"courses": }
 
-	return render(request, 'helloworld.html', context)
+	return render(request, 'home.html', context)

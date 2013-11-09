@@ -7,7 +7,7 @@ Some utility functions useful for views.
 mcgill_email = "mail.mcgill.ca"
 mcgill_email_prof = "mcgill.ca"
 
-def isValidEmail(email):
+def valid_email(email):
 	return email.endswith(mcgill_email) or email.endswith(mcgill_email_prof)
 
 def email_exists(email):
